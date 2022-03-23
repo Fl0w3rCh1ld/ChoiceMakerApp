@@ -6,3 +6,6 @@ The second part is another random generator that helps me decide wich 2 subjects
 I divided my subjects into two categories: 'Arts & Humanities' and 'Sciences'
 
 I will add updates to this README as I continue with my project.
+
+#22.03.22 Update
+I added the "YesNoMaybe" code with the string values in english.
